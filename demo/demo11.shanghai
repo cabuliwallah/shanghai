@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+
+# 演示导入python模块
+
+阿庆，上 math。  # import math
+阿庆，上 re。  # import re
+
+嘎讪胡：白相 math.factorial（五）。
+
+阿庆毛估估是“abd”。
+轧苗头：白相re.match（“a.*”，阿庆）？  # 调用 re.match()。
+要来赛就嘎讪胡：“OK！”。
+勿来赛就嘎讪胡：“完结了！”。
+
+# 运行结果:
+#
+# 120
+# OK
